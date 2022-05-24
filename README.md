@@ -1,6 +1,6 @@
 ## Installation
 
-* clone this repository and got to it's directory
+* clone this repository and go to it's directory
 `git clone https://github.com/myonaingwinn/laravel-react-template.git && cd laravel-react-template`.
 * run `composer install && npm install`.
 
